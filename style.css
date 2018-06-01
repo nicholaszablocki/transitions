@@ -1,0 +1,12 @@
+.block{
+  height:100px;
+  width:100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  transition:all 3s ease 1s;
+}
+.black:hover{
+  background-color: white;
+}
